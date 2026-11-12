@@ -1,0 +1,50 @@
+{
+  "annoyed": {
+      "width": 240,
+      "height": 240,
+      "x": 0,
+      "y": 0
+  },
+  "calm": {
+      "width": 240,
+      "height": 240,
+      "x": 240,
+      "y": 0
+  },
+  "flushed": {
+      "width": 240,
+      "height": 240,
+      "x": 480,
+      "y": 0
+  },
+  "glad": {
+      "width": 240,
+      "height": 240,
+      "x": 720,
+      "y": 0
+    },
+  "happy": {
+      "width": 240,
+      "height": 240,
+      "x": 0,
+      "y": 240
+    },
+  "normal": {
+      "width": 240,
+      "height": 240,
+      "x": 240,
+      "y": 240
+  },
+  "sideeye": {
+      "width": 240,
+      "height": 240,
+      "x": 480,
+      "y": 240
+  },
+  "surprised": {
+      "width": 240,
+      "height": 240,
+      "x": 720,
+      "y": 240
+  }
+}
